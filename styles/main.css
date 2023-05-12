@@ -1,0 +1,8 @@
+.theme-button {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+.theme-button:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=main.css.map */

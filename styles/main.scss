@@ -1,0 +1,10 @@
+$circleDiameter: 35px;
+
+.theme-button {
+    width: $circleDiameter;
+    height: $circleDiameter;
+    border-radius: 50%;
+    &:hover {
+        cursor: pointer;
+    }
+}
